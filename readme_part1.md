@@ -117,4 +117,3 @@ In Matlab:
 	 	       choose which image stack you want to display the ROI, and third input you can choose the size of sub-stack ('big','middle'
 		       ,'small','tiny').If you just give an coordinates, the function will try to display it with marked color stack, and in middle
                        size.
-	NOTE: if you don't have enough RAM to generate the color overlayed stack. You can directly load it from folder "\\2014-07-17-SG(iLastik-test)\Matlab_Scripts\Matlab_baseWorkspace_Variables", with name "Overlay.mat" and "Overlay_marked.mat". These can save you a lot computational price and time.
