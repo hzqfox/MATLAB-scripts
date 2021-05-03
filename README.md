@@ -1,2 +1,2 @@
 # MATLAB-scripts
-Matlab scripts for image processing and analysis
+A series of MATLAB scripts to process and analyze segmented synapse from 3D EM data
